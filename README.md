@@ -44,7 +44,7 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 ### Explored Data on the basis of customers
 
-#### Calculated Gender-wise Revenue and Count of Customers Chart
+### Calculated Gender-wise Revenue and Count of Customers Chart
 
 
 ![Gender-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/59a7ab5ba1ef73e73f40e5a6f112d904df9e7f2a/outputs/visuals/gender-wise%20count.png)
@@ -52,7 +52,7 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 **Females account for more than 50% of the total customers and spent more than 70 million whereas Males spent only around 30 million**
 
-#### Calculated Age-wise Revenue and Count of orders chart
+### Calculated Age-wise Revenue and Count of orders chart
 
 
 ![Age-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/age-wise%20count.png)
@@ -60,14 +60,14 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 **26-35 age group is the top spender with females spending the most whereas 0-17 age group spent the least amount.**
 
-#### Calculated Marital Status-wise Count of Orders and Revenue Chart
+### Calculated Marital Status-wise Count of Orders and Revenue Chart
 
 ![marital_status-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/marital%20status%20count.png)
 ![marital_status-wise Revenue](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/marital%20status%20revenue.png)
 
 **Unmarried Females Generated maximum amount of revenue, a potential target customer**
 
-#### Calculated Occupation-wise Count and Revenue Chart
+### Calculated Occupation-wise Count and Revenue Chart
 
 ![occupation-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/occupation-wise%20count.png)
 ![occupation-wise Revenue](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/occupation-wise%20revenue.png)
@@ -76,7 +76,7 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 ### Explored data on the basis of States
 
-#### Calculated state-wise Revenue and Count of orders Chart for Top 10 states
+### Calculated state-wise Revenue and Count of orders Chart for Top 10 states
 
 ![State-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/top%2010%20states.png)
 ![state-wise Revenue](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/states%20revenue.png)
@@ -86,7 +86,7 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 ### Explored Data on basis of Product Category
 
-#### Calculated Product Category-wise Revenue and Count of orders and Top 10 Products Chart
+### Calculated Product Category-wise Revenue and Count of orders and Top 10 Products Chart
 
 ![product-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/product_category-wise%20count.png)
 ![product-wise Revenue](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/e8e2d90d3c68c102394258e20aae75178e73e286/outputs/visuals/product_category-wise%20revenue.png)
