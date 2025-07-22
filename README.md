@@ -1,6 +1,6 @@
 # 📊 Vertex Nexus Sales EDA Project
 
-Exploratory Data Analysis (EDA) on sales data from **Vertex Nexus**, aimed at uncovering key trends Customer-wise, State-wise and Prodcut-wise. This project demonstrates my Python data analysis workflow—from data cleaning to Analysis.
+Exploratory Data Analysis (EDA) on sales data from **Vertex Nexus**, aimed at uncovering key trends Customer-wise, State-wise and Product-wise. This project demonstrates my Python data analysis workflow—from data cleaning to Analysis.
 
 ## 🧠 Overview
 
@@ -44,4 +44,4 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 - Calculated Gender-wise Revenue and Count of Customers Chart - Females account for more than 50% of the total customers and spent more than 70 million whereas Males spent only around 30 million
 
-
+![Gender-wise Count](gender-wise count.png)
