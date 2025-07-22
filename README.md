@@ -42,7 +42,9 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 # Explored Data on the basis of customers
 
-- Calculated Gender-wise Revenue and Count of Customers Chart - Females account for more than 50% of the total customers and spent more than 70 million whereas Males spent only around 30 million
+- Calculated Gender-wise Revenue and Count of Customers Chart
 
 ![Gender-wise Count](https://github.com/Deepanshu985/Vertex_Nexus_Sales_EDA/blob/59a7ab5ba1ef73e73f40e5a6f112d904df9e7f2a/outputs/visuals/gender-wise%20count.png)
+
+**Females account for more than 50% of the total customers and spent more than 70 million whereas Males spent only around 30 million**
 
