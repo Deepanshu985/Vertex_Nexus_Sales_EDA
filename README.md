@@ -44,4 +44,5 @@ As a data analyst, my goal is to perform Exploratory Data Analysis (EDA) on the 
 
 - Calculated Gender-wise Revenue and Count of Customers Chart - Females account for more than 50% of the total customers and spent more than 70 million whereas Males spent only around 30 million
 
-![Gender-wise Count](gender-wise count.png)
+![Gender-wise Count](outputs/visuals/gender-wise count.png)
+
